@@ -1,6 +1,6 @@
 body{
-    background-color: #A9D4D9;
-    background-image:url("fondocat.png");
+    /*background-color: #A9D4D9;*/
+    background-image:url("imagenes/fondocat.png");
     color:#efc7cd;
     background-size:100%;
     background-repeat:no-repeat;
@@ -37,4 +37,5 @@ body{
   
   table{
     border:3px pink;
+    margin: auto;
   }
